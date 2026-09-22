@@ -15,11 +15,11 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
+- Curso e disciplina: `[Ciência da Computação - Design Profissional]`
+- Professor ou orientador: `[Isabella Luiza Dos Santos Souza]`
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Integrantes: `[João Pedro Cavalcante Pereira, Daniel Barreto Cavalcante, Gustavo Cavalcante dos Santos, Jhonatas Henrique Fernandes Fonseca]`
+- Data de início: `[22/09/2026]`
 
 
 
