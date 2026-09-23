@@ -10,7 +10,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Pergunta de pesquisa
 
-`[Quais os impactos de TI VERDE em Data Center cloud e AI Factories]`
+`[Quais os impactos de TI VERDE em Data Center cloud e AI Factories?]`
 
 ## Verificação
 
@@ -36,7 +36,7 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[João Pedro Cavalcante Pereira]`
-| `[Jhonatas Henrique Fernandes Fonseca]`
-| `[Gustavo Cavalcante dos Santos]`
-| `[Daniel Barreto Cavalcante]`
+| `[João Pedro Cavalcante Pereira]` | `[Desenvolvimento da pergunta e pesquisa sobre ela]`
+| `[Jhonatas Henrique Fernandes Fonseca]` |`[Desenvolvimento da pergunta e pesquisa sobre ela]`
+| `[Gustavo Cavalcante dos Santos]` | `[Desenvolvimento da pergunta e pesquisa sobre ela]`
+| `[Daniel Barreto Cavalcante]` | `[Desenvolvimento da pergunta e pesquisa sobre ela]`
