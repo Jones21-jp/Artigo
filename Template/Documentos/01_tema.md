@@ -7,36 +7,37 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `[João Pedro Cavalcante Pereira, Daniel Barreto Cavalcante, Gustavo Cavalcante dos Santos, Jhonatas Henrique Fernandes Fonseca]`
+- Data: `[22/09/2026]`
 
 ## Preenchimento
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`[IT GREEN]`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[Eficiência Energética em data centers cloud e AI Factories]`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `[TI Verde]`
+- Objeto estudado: `[Data Centers e AI Factories]`
+- Contexto ou aplicação: `[Eficiência Energética]`
+- Aspecto que será analisado: `[A eficiência energética em Data Centers e AI Factories]`
+- O que ficará fora do estudo: `[Usuário final, Evolução dos Data Centers, História da IA]`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`[Demonstrar impactos positivos através da conscientização sobre uso eficiente de energia em Data Centers e AI Factories
+  Tornar explicito como o uso de tecnologias pode afetar o ambiente]`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `[Sim]`
+- O tema pode ser estudado no prazo? `[Sim]`
+- O grupo possui acesso às fontes necessárias? `[Sim]`
 
 ## Produto da etapa
 
@@ -44,14 +45,17 @@ Tema delimitado e justificativa.
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [x] O tema é específico.
+- [x] O tema é relevante.
+- [x] O tema é viável.
+- [x] O recorte está claro.
+- [x] O tema foi validado pelo professor.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[João Pedro Cavalcante Pereira]` | `[Pesquisas e discussão do tema]` |
+| `[Jhonatas Henrique Fernandes Fonseca]` | `[Pesquisas e discussão do tema]` |
+| `[Gustavo Cavalcante dos Santos]` | `[Pesquisas e discussão do tema]` |
+| `[Daniel Barreto Cavalcante]` | `[Pesquisas e discussão do tema]` |
