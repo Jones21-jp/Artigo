@@ -18,7 +18,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 - Qual é o objeto da pergunta? `[Descobrir quais impactos positivos do TI Verde]`
 - Qual é o contexto ou recorte? `[Impactos ambientais e eficiência energética]`
 - A pergunta pode ser respondida por artigos científicos? `[Sim. Pois artigos pesquisados já confirmaram respostas amplas para essa questão.]`
-- Por que essa pergunta é relevante? `[Conscientiza e esclarece como de fato a TI VERDE impacta em Tecnologias que usamos diariamente, mesmo sem ter noção de seus usos em nossos dias a dias]`
+- Por que essa pergunta é relevante? `[Conscientiza e esclarece como de fato a TI VERDE impacta em Tecnologias que usamos diariamente, mesmo sem ter noção de seus usos em nosso dia a dia]`
 
 ## Produto da etapa
 
