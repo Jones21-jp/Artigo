@@ -6,26 +6,26 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`[Quais os impactos de TI VERDE em Data Centers cloud e AI Factories?]`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`[Analisar e discutir quais os impactos da TI VERDE em Data Centers Cloud e AI Factories e o porque desses impactos.]`
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. `[Descobrir os impactos causados pela TI VERDE tanto em Data Centers Cloud quanto em AI Factories.]`
+2. `[Analisar de forma objetiva se esses impactos são realmente significativos e o que eles geram.]`
+3. `[Discutir o porque desses impactos e gerar interesse maior em TI VERDE.]`
+4. `[Tornar a TI VERDE um domínio mais conhecido entre os stakeholders.]`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | `[Quais os impactos de TI VERDE em Data Centers cloud e AI Factories?]` |
+| Objetivo geral | `[Analisar e discutir quais os impactos da TI VERDE em Data Centers Cloud e AI Factories e o porque desses impactos]` |
+| Resultado esperado | `[Um entendimento maior sobre a TI VERDE e gerar mais interesse para com essa área importante.]` |
 
 ## Produto da etapa
 
@@ -33,7 +33,7 @@ Um objetivo geral e de três a quatro objetivos específicos.
 
 ## Checklist
 
-- [ ] Os objetivos começam com verbos no infinitivo.
-- [ ] O objetivo geral responde ao problema.
-- [ ] Os objetivos específicos detalham o objetivo geral.
-- [ ] Os objetivos são compatíveis com uma revisão bibliográfica.
+- [x] Os objetivos começam com verbos no infinitivo.
+- [x] O objetivo geral responde ao problema.
+- [x] Os objetivos específicos detalham o objetivo geral.
+- [x] Os objetivos são compatíveis com uma revisão bibliográfica.
