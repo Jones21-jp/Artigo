@@ -16,7 +16,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 1. `[Descobrir os impactos causados pela TI VERDE tanto em Data Centers Cloud quanto em AI Factories.]`
 2. `[Analisar de forma objetiva se esses impactos são realmente significativos e o que eles geram.]`
-3. `[Discutir o porque desses impactos e gerar interesse maior em TI VERDE.]`
+3. `[Discutir o porquê desses impactos e gerar interesse maior em TI VERDE]`
 4. `[Tornar a TI VERDE um domínio mais conhecido entre os stakeholders.]`
 
 ## Quadro de alinhamento
