@@ -30,8 +30,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Justificativa
 
-`[Demonstrar impactos positivos através da conscientização sobre uso eficiente de energia em Data Centers e AI Factories
-  Tornar explicito como o uso de tecnologias pode afetar o ambiente]`
+`[Demonstrar impactos positivos através da conscientização sobre uso eficiente de energia em Data Centers e AI Factories, Tornar explicito como o uso de tecnologias pode afetar o ambiente e melhorar o entendimento de como o uso eficiente de energia pode melhorar nossas vidas e usos de tecnologias diárias]`
 
 ### Viabilidade
 
