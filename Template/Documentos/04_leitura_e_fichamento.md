@@ -38,21 +38,21 @@ Obrigatoriedade de artigos com no máximo 5 anos, ou seja, de publicação entre
 
 ### Limitações apresentadas
 
-`\[Poucos trabalhos retratam diretamente a relação entre instabilidade elétrica e disponibilidade da informação, tornando escassa a antecipação de de falhas energéticas.]`
+`\[Poucos trabalhos retratam diretamente a relação entre instabilidade elétrica e disponibilidade da informação, tornando escassa a antecipação de falhas energéticas.]`
 
 ### Contribuição para o nosso artigo
 
-`\[Explique como este estudo ajuda a responder à pergunta da revisã.]`
+`\[Ele auxilia na questão de dados provando o quanto a TI Verde influencia para um ambiente melhor, com menos gasto de energia, menos emissão de CO₂, fontes renováveis e armazenamento de energia por baterias, aumentando a eficiência e reduzem riscos operacionais.]`
 
 ### Comentário crítico
 
-`\[Registre forças, fragilidades, concordâncias ou divergências.]`
+`\[Os artigos estudados reforçam muito bem o tema escolhido e o quanto ele gera impacto positivos para o uso eficiente e a segurança relacionada a TI Verde, conscientizando as pessoas de como hábitos desde o uso de IAs quanto de data centers cloud pode gerar impactos negativos se não forem lidados de maneira a tratar eficientemente da demanda cada vez maior dos mesmos. / E um ponto negativo é a escassez de estudos para a antecipação de falhas energéticas.]`
 
 ### Citação literal opcional
 
-> `\[trecho exato]`
+> `\[A sustentabilidade não deve ser tratada apenas como uma questão ambiental, mas também como um elemento estratégico para a garantia da disponibilidade, continuidade e resiliência dos serviços de informação.]`
 
-Página: `\[número]`
+Página: `\[67 no primeiro parágrafo da página.]`
 
 ## Checklist
 
