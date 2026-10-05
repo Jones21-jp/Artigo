@@ -12,21 +12,21 @@ Obrigatoriedade de artigos com no máximo 5 anos, ou seja, de publicação entre
 * DOI ou URL: `\[https://doi.org/10.31510/infa.v23i1.2441]`
 * Base de origem: `\[Interface Tecnológica (revista.fatectq.edu.br), periódico da Fatec Taquaritinga / Centro Paula Souza]`
 * Leitor responsável: `\[João Pedro Cavalcante Pereira, Daniel Barreto Cavalcante, Gustavo Cavalcante dos Santos, Jhonatas Henrique Fernandes Fonseca]`
-* Data da leitura: `\[dd/mm/aaaa]`
+* Data da leitura: `\[05/10/2026]`
 
 ## Fichamento
 
 ### Problema investigado
 
-`\[preencher]`
+`\[O impacto que a demanda de mais data centers e o avanço da IA gera na sustentabilidade energética e também na segurança da informação.]`
 
 ### Objetivo do estudo
 
-`\[preencher]`
+`\[Conscientizar sobre o uso da TI Verde e como ele pode gerar menos impactos negativos sem diminuir necessariamente a demanda e o uso de tais aréas.]`
 
 ### Método utilizado
 
-`\[preencher]`
+`\[Pesquisa qualitativa e exploratória, baseada em revisão sistemática da literatura seguindo os princípios do modelo PRISMA. Foram analisados, de forma comparativa e por análise de conteúdo, 20 estudos selecionados, considerando variáveis como redundância elétrica, uso de fontes renováveis e estratégias de eficiência térmica,avaliando seu potencial impacto sobre a segurança da informação e a resiliência operacional]`
 
 ### Contexto, amostra ou dados
 
