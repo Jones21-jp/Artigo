@@ -8,9 +8,9 @@ Obrigatoriedade de artigos com no máximo 5 anos, ou seja, de publicação entre
 
 ## Identificação do artigo
 
-* Referência completa: `\[BENFICA, Luan Gabriel; DE SOUSA, Kawan Melo Saraiva Sabino; DOS SANTOS, Rickelmi Henrique Ferreira; NEVES, João Emmanuel D'Alkmin. Data centers de IA: a escassez energética e o risco emergente na segurança da informação. Interface Tecnológica, Taquaritinga, SP, v. 23, n. 1, p. 59-68, 2026. DOI: 10.31510/infa.v23i1.2441.]`
-* DOI ou URL: `\[https://doi.org/10.31510/infa.v23i1.2441]`
-* Base de origem: `\[Interface Tecnológica (revista.fatectq.edu.br), periódico da Fatec Taquaritinga / Centro Paula Souza]`
+* Referência completa: `\[BENFICA, Luan Gabriel; DE SOUSA, Kawan Melo Saraiva Sabino; DOS SANTOS, Rickelmi Henrique Ferreira; NEVES, João Emmanuel D'Alkmin. Data centers de IA: a escassez energética e o risco emergente na segurança da informação. Interface Tecnológica, Taquaritinga, SP, v. 23, n. 1, p. 59-68, 2026. DOI: 10.31510/infa.v23i1.2441. / CURTOLO, Vitor André; PEIXOTO, Cecilia Sosa Arias. Utilização da computação em nuvem e sua contribuição na redução do efeito estufa e combate ao aquecimento global. Revista Ubiquidade, [S. l.], v. 8, n. 1, p. 66-92, 2025. Disponível em:  https://revistas.anchieta.br/index.php/RevistaUbiquidade/article/view/2263. Acesso em: 5 out. 2026.]`
+* DOI ou URL: `\[https://doi.org/10.31510/infa.v23i1.2441 / https://revistas.anchieta.br/index.php/RevistaUbiquidade/pt_BR/article/view/2263]`
+* Base de origem: `\[Interface Tecnológica (revista.fatectq.edu.br), periódico da Fatec Taquaritinga/Centro Paula Souza \ Revista Ubiquidade (revistas.anchieta.br), periódico do Centro Universitário Padre Anchieta.]`
 * Leitor responsável: `\[João Pedro Cavalcante Pereira, Daniel Barreto Cavalcante, Gustavo Cavalcante dos Santos, Jhonatas Henrique Fernandes Fonseca]`
 * Data da leitura: `\[05/10/2026]`
 
