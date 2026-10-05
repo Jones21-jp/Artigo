@@ -26,23 +26,23 @@ Obrigatoriedade de artigos com no máximo 5 anos, ou seja, de publicação entre
 
 ### Método utilizado
 
-`\[Pesquisa qualitativa e exploratória, baseada em revisão sistemática da literatura seguindo os princípios do modelo PRISMA. Foram analisados, de forma comparativa e por análise de conteúdo, 20 estudos selecionados, considerando variáveis como redundância elétrica, uso de fontes renováveis e estratégias de eficiência térmica,avaliando seu potencial impacto sobre a segurança da informação e a resiliência operacional]`
+`\[Pesquisa qualitativa e exploratória, baseada em revisão sistemática da literatura seguindo os princípios do modelo PRISMA. Foram analisados, de forma comparativa e por análise de conteúdo, 20 estudos selecionados, considerando variáveis como redundância elétrica, uso de fontes renováveis e estratégias de eficiência térmica,avaliando seu potencial impacto sobre a segurança da informação e a resiliência operacional \ Pesquisa qualitativa, exploratória e descritiva (GIL, 2008), com revisão de literatura, análise de 4 estudos de caso publicados (Salles et al. 2016, Pinto et al. 2021, Lunardi et al. 2014, Trivedi et al. 2014), análise dos relatórios de sustentabilidade do Google (2023 e 2024) e da AWS (2023) e uma análise comparativa final.]`
 
 ### Contexto, amostra ou dados
 
-`\[preencher]`
+`\[Data centers que operam com IA, com foco na relação entre demanda e instabilidade energética e a disponibilidade da informação, incluindo o cenário brasileiro. A amostra é de 20 artigos selecionados pela revisão. Os autores usam dados da IEA (projeção de consumo elétrico de data centers até 2035) e casos ilustrativos, como o incêndio no data center da OVH (2021), o alerta de sobrecarga em Ashburn (2023) e o projeto Equinix PA10 em Paris (2024). / O estudo se insere no contexto da convergência entre computação em nuvem e TI Verde e da preocupação com o efeito estufa e o aquecimento global, com foco em como a migração para a nuvem pode reduzir o consumo de energia e as emissões de CO₂ do setor de TI. Os dados analisados são documentais, sem coleta própria: (1) quatro estudos de caso já publicados, Salles et al. (2016), Pinto et al. (2021), Lunardi et al. (2014) e Trivedi et al. (2014), que incluem exemplos de data centers verdes como Locaweb, Algar Tech e Dell EMC; (2) os relatórios de sustentabilidade do Google (2023 e 2024) e da AWS (2023); e (3) dados complementares sobre viabilidade financeira, como o estudo da Accenture (Lacy et al., 2020) e uma revisão sobre nuvem em pequenas e médias empresas (Rodrigues et al., 2021).]`
 
 ### Principais resultados
 
-`\[preencher]`
+`\[A evolução da IA aumenta muito a demanda de energia, e dados preveem que até 2035 o consumo dos data centers podem passar de 1.200 TWh, e em certas regiões a concentração dessas estruturas pode pressionar as redes elétricas locais, práticas de sustentabilidade como o reaproveitamento de calor, refrigeração a liquido, fontes renováveis e armazenamento de energia por baterias, ajudam a aumentar a eficiência e reduzir riscos operacionais e a computação em nuvem, aliada a práticas de TI Verde como virtualização e consolidação de servidores reduz o consumo de energia e as emissões de CO₂.`
 
 ### Limitações apresentadas
 
-`\[preencher]`
+`\[Poucos trabalhos retratam diretamente a relação entre instabilidade elétrica e disponibilidade da informação, tornando escassa a antecipação de de falhas energéticas.]`
 
 ### Contribuição para o nosso artigo
 
-`\[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`\[Explique como este estudo ajuda a responder à pergunta da revisã.]`
 
 ### Comentário crítico
 
