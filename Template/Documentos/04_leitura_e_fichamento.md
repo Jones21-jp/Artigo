@@ -8,9 +8,9 @@ Obrigatoriedade de artigos com no máximo 5 anos, ou seja, de publicação entre
 
 ## Identificação do artigo
 
-* Referência completa: `\[preencher]`
-* DOI ou URL: `\[preencher]`
-* Base de origem: `\[preencher]`
+* Referência completa: `\[BENFICA, Luan Gabriel; DE SOUSA, Kawan Melo Saraiva Sabino; DOS SANTOS, Rickelmi Henrique Ferreira; NEVES, João Emmanuel D'Alkmin. Data centers de IA: a escassez energética e o risco emergente na segurança da informação. Interface Tecnológica, Taquaritinga, SP, v. 23, n. 1, p. 59-68, 2026. DOI: 10.31510/infa.v23i1.2441.]`
+* DOI ou URL: `\[https://doi.org/10.31510/infa.v23i1.2441]`
+* Base de origem: `\[Interface Tecnológica (revista.fatectq.edu.br), periódico da Fatec Taquaritinga / Centro Paula Souza]`
 * Leitor responsável: `\[preencher]`
 * Data da leitura: `\[dd/mm/aaaa]`
 
