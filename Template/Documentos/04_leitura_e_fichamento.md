@@ -56,9 +56,9 @@ Página: `\[67 no primeiro parágrafo da página.]`
 
 ## Checklist
 
-* \[ ] O artigo foi lido além do resumo.
-* \[ ] O método e os resultados foram identificados.
-* \[ ] As limitações foram registradas.
-* \[ ] A conexão com o tema foi explicada.
-* \[ ] Toda citação literal contém página.
+* \[x] O artigo foi lido além do resumo.
+* \[x] O método e os resultados foram identificados.
+* \[x] As limitações foram registradas.
+* \[x] A conexão com o tema foi explicada.
+* \[x] Toda citação literal contém página.
 
