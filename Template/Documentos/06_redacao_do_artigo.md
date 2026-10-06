@@ -14,7 +14,7 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo.
 
 ## Introdução
 
-`\[Apresente contexto, foco, problema ou lacuna, justificativa e objetivo.]`
+`\[Dado a crescente demanda e os custos no mundo da tecnologia, foco, problema ou lacuna, justificativa e objetivo.]`
 
 ## Metodologia
 
