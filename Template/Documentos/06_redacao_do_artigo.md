@@ -6,11 +6,11 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo.
 
 # Título
 
-`\[Título claro e coerente com o tema]`
+`\[Eficiência Energética em data centers cloud e AI Factories]`
 
 ## Palavras-chave
 
-`\[palavra 1]; \[palavra 2]; \[palavra 3]`
+`\[Eficiência]; \[Impactos]; \[Conciêntizar]`
 
 ## Introdução
 
